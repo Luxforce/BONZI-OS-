@@ -1,5 +1,4 @@
 # BONZI-OS-
-# OS based on community opensource Project
-
-# INSTALL
+# First OS To be fully functinal And webbased 
+# NO INSTALL NEEDED GO TO OUR WEBSITE ONCE THE PROJECT IS DONE DEVLOPMENT
 
