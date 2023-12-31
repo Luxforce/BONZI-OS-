@@ -1,4 +1,4 @@
 # BONZI-OS-
-# First OS To be fully functinal And webbased 
+# First OS To be fully functinal And web-based 
 # NO INSTALL NEEDED GO TO OUR WEBSITE ONCE THE PROJECT IS DONE DEVLOPMENT
 
